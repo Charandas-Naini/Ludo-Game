@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es2016","es6", "dom"],
+    "types": ["cc"],
+    "experimentalDecorators": true,
+    "allowJs": true
+  }
+}
