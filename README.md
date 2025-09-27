@@ -12,8 +12,12 @@ A classic **Ludo** game built with **Cocos2d**, featuring offline multiplayer on
 ## 🛠 Tech Stack
 - Engine: Cocos2d (v3.x)
 - Language: TypeScript
-
+  
 <video width="480" controls>
   <source src="demoVideo/LudoGame.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[Download APK](https://github.com/Charandas-Naini/Ludo-Game/APK/LudoDas-release.apk)
+
+[[Watch the video]](https://youtube.com/shorts/svb7hgJS4YU)
