@@ -18,4 +18,6 @@ A classic **Ludo** game built with **Cocos2d**, featuring offline multiplayer on
   Your browser does not support the video tag.
 </video>
 
+[Download APK](https://github.com/Charandas-Naini/Ludo-Game/APK/LudoDas-release.apk)
+
 [[Watch the video]](https://youtube.com/shorts/svb7hgJS4YU)
