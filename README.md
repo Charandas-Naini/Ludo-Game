@@ -17,3 +17,5 @@ A classic **Ludo** game built with **Cocos2d**, featuring offline multiplayer on
   <source src="demoVideo/LudoGame.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[[Watch the video]](https://youtube.com/shorts/svb7hgJS4YU)
